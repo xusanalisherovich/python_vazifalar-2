@@ -1,2 +1,2 @@
-# python_vazifalar-2
-Savollar to'plami
+# python_mavzullar
+Misollar
